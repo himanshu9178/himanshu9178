@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://github.com/himanshu9178/himanshu9178/assets/118620631/6626f2ac-887f-4d83-bbf1-26a8081c6ba8]
+![![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/0a1595eb-db64-4d9b-9322-f7bb24145812)
 (https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
 
 <!--
