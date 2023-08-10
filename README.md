@@ -1,7 +1,7 @@
 ### Hi there 👋
-[Linkedin](https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
-[Kaggle](https://www.kaggle.com/himanshupanigrahi)
-[HackerRank](https://www.hackerrank.com/himanshu86panig1)
+[|Linkedin|](https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
+[|Kaggle|](https://www.kaggle.com/himanshupanigrahi)
+[|HackerRank|](https://www.hackerrank.com/himanshu86panig1)
 <!--
 **himanshu9178/himanshu9178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
