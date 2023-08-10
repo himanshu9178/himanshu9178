@@ -14,11 +14,8 @@
 - Proficient in Linear Algebra, Statistics, and optimization Techniques
 - Database Management System, Data Mining and Data Structures and Algorithms
 #### 🎯Language and Tools:
-![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/a4f05a43-481e-49d7-a8f9-2599b353bbf2)
-![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/1ee43893-39b9-49c0-a14e-dd0a8cdf5abd)
-![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/92ea7d17-504e-475a-b6a8-cdeed8ef476c)
-![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/acbdddcd-f650-424e-a6ab-91dca1dc8867)
-![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/37ad5269-7bc1-495d-9897-d786cb577ce0)
-![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/9bc112a9-0350-4ea6-975e-0794904c591d)
-![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/bc7490a2-5049-4b4d-a43a-6eccf391ec08)
+![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/08e7c092-1acc-4030-82cb-e710409e142b)
+![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/036a06a5-6810-4c0b-aeb8-fe503480bb68)
+![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/39680cad-965e-4035-93e8-0d8ceb706e82)
+
 
