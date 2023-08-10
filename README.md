@@ -1,5 +1,5 @@
 ### Hi there 👋
--[in](https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
+[in](https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
 
 <!--
 **himanshu9178/himanshu9178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
