@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/fae4be0e-75de-4cf6-b480-7e413b380488)
-](https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
+[Linkedin](https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
 [Mail]()
 
 <!--
