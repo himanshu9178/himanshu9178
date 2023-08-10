@@ -1,6 +1,6 @@
 ### Hi there 👋
-![![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/6626f2ac-887f-4d83-bbf1-26a8081c6ba8)
-](https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
+![https://github.com/himanshu9178/himanshu9178/assets/118620631/6626f2ac-887f-4d83-bbf1-26a8081c6ba8]
+(https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
 
 <!--
 **himanshu9178/himanshu9178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
