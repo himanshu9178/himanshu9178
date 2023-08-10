@@ -5,9 +5,10 @@
 - [Linkedin](https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
 - [Kaggle](https://www.kaggle.com/himanshupanigrahi)
 - [HackerRank](https://www.hackerrank.com/himanshu86panig1)
-- [Resume](https://github.com/himanshu9178/himanshu9178/files/12316260/My_Resume_.pdf)
-
 - himanshu86panigrahi@gmail.com
+#### 📝[Resume](https://github.com/himanshu9178/himanshu9178/files/12316260/My_Resume_.pdf)
+
+
 #### 🧰 Skills!
 - Machine Learning, Deep laerning, Natural Language Processing, Artificial Intelligence
 - Proficient in Linear Algebra, Statistics, and optimization Techniques
