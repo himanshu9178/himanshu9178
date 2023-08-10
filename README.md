@@ -5,7 +5,7 @@
 - [Kaggle](https://www.kaggle.com/himanshupanigrahi)
 - [HackerRank](https://www.hackerrank.com/himanshu86panig1)
 - himanshu86panigrahi@gmail.com
-## ![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/196f5e73-83b5-42d3-afc0-0ec18f448f86)
+## ![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/196f5e73-83b5-42d3-afc0-0ec18f448f86);m;mglm
 
 
 #### 🧰 Skills!
