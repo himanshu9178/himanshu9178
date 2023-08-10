@@ -4,7 +4,7 @@
 - [Linkedin](https://www.linkedin.com/in/himanshu-sekhar-panigrahi-4830a4255/)
 - [Kaggle](https://www.kaggle.com/himanshupanigrahi)
 - [HackerRank](https://www.hackerrank.com/himanshu86panig1)
-- himanshu86panigrahi@gmail.com
+- himanshu86panigrahi
 ![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/c1696544-575a-4caf-93e2-f21a25a488e7)
 
 #### 🧰 Skills!
