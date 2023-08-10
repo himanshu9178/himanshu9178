@@ -6,6 +6,8 @@
 - [HackerRank](https://www.hackerrank.com/himanshu86panig1)
 - himanshu86panigrahi@gmail.com
 ## ![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/c1696544-575a-4caf-93e2-f21a25a488e7)
+![image](https://github.com/himanshu9178/himanshu9178/assets/118620631/196f5e73-83b5-42d3-afc0-0ec18f448f86)
+
 
 #### 🧰 Skills!
 - Machine Learning, Deep laerning, Natural Language Processing, Artificial Intelligence
