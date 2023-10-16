@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Advance ML, Big Data Analytics(Apache, Hadoop), Data Security, Bio-Informatics and Time Series Analysis**
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Data Base Management System, Artificial Intelligence, Generative AI, Data mining, Data Structures & Algorithm**
 - 📫 How to reach me **himanshu86panigrahi@gmail.com**
-- 👨‍💻 All of my projects are available at **#Attatch Later**
+- 👨‍💻 All of my projects are available at **Repositories**
 - 📝 I regularly read papers on **https://silicon.knimbus.com**
 - 📄 Know about my experiences **https://github.com/himanshu9178/himanshu9178/files/12316260/My_Resume_.pdf**
 - ⚡ Hobbies **A Gamer and Hard core Movie lover 😍**
